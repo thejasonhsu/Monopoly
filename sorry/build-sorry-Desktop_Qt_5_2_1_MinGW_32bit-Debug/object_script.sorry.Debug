@@ -1,0 +1,15 @@
+INPUT(
+./debug\mainwindow.o
+./debug\centralwidget.o
+./debug\guiplayer.o
+./debug\guiplayerhorizontal.o
+./debug\guiplayervertical.o
+./debug\player.o
+./debug\sorry.o
+./debug\qrc_application.o
+./debug\moc_mainwindow.o
+./debug\moc_centralwidget.o
+./debug\moc_guiplayer.o
+./debug\moc_guiplayerhorizontal.o
+./debug\moc_guiplayervertical.o
+);

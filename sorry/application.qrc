@@ -1,0 +1,7 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>images/cardfacedown.png</file>
+    <file>images/card5.png</file>
+    <file>images/sorry.jpg</file>
+</qresource>
+</RCC>

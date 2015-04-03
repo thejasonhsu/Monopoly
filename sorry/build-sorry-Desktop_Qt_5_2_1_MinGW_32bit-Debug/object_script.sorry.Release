@@ -1,0 +1,15 @@
+INPUT(
+./release\mainwindow.o
+./release\centralwidget.o
+./release\guiplayer.o
+./release\guiplayerhorizontal.o
+./release\guiplayervertical.o
+./release\player.o
+./release\sorry.o
+./release\qrc_application.o
+./release\moc_mainwindow.o
+./release\moc_centralwidget.o
+./release\moc_guiplayer.o
+./release\moc_guiplayerhorizontal.o
+./release\moc_guiplayervertical.o
+);
